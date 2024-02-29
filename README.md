@@ -1,6 +1,6 @@
 Travaux dirigés en langage C pdf (EN COURS) <br>
 - voir site du professeur du module <br>
-- sujet1.pdf (solution:[2.4.c](https://github.com/rpriam/cours3a/blob/main/ProgC_3A_TD1et2_solution_2.4.c.zip) sujet2.pdf sujet3.pdf
+- sujet1.pdf ([solution 2.4.c](https://github.com/rpriam/cours3a/blob/main/ProgC_3A_TD1et2_solution_2.4.c.zip)) sujet2.pdf sujet3.pdf
 
 Travaux pratiques en langage C pdf (A VENIR) <br>
 - voir site du professeur du module <br>
