@@ -12,4 +12,3 @@ Complement (bibliographique et autre)<br>
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
  - codeblocks [.](https://www.codeblocks.org/)
    <br>
-            
