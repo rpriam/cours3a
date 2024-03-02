@@ -11,4 +11,21 @@ Complement (bibliographique et autre)<br>
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
  - ide codeblocks [.](https://www.codeblocks.org/)
-   <br>
+
+Complement (rappels)<br>
+ - programme principal <br>
+ #include<fichier_librairie.h> <br>
+ int main() { <br>
+  &nbsp;&nbsp;/*declaration des variables*/ <br>
+ <br> <br>
+  &nbsp;&nbsp;/*contenu du programme principal */
+ <br> <br>
+ &nbsp;&nbsp;return 0;
+} <br>
+ 
+
+
+ 
+
+
+   
