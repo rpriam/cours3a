@@ -17,7 +17,7 @@ Complement (rappels)<br>
  #include<fichier_librairie.h> <br>
  int main() { <br>
   &nbsp;&nbsp; /\* declaration des variables \*/ <br>
-  &nbsp;&nbsp; /\* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \*/  <br>
+  &nbsp;&nbsp; /\* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  \*/  <br>
   &nbsp;&nbsp; /\* code du programme principal \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
