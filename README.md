@@ -17,15 +17,13 @@ Complement (rappels)<br>
  #include<fichier_librairie.h> <br>
  int main() { <br>
   &nbsp;&nbsp; /\* declaration des variables \*/ <br>
- <br> <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
  &nbsp;&nbsp; /\* ... \*/  <br>
   &nbsp;&nbsp; /\* code du programme principal \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
-  &nbsp;&nbsp; /\* ... \*/  <br>
- <br> <br>
+  &nbsp;&nbsp; /\* ... \*/  <br> 
  &nbsp;&nbsp;return 0; <br>
 } <br>
  - vocabulaire (instructions) essentiel(les)
