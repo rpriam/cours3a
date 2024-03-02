@@ -19,10 +19,7 @@ Complement (rappels)<br>
   &nbsp;&nbsp; /\* declaration des variables \*/ <br>
   &nbsp;&nbsp; /\* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  \*/  <br>
   &nbsp;&nbsp; /\* code du programme principal \*/  <br>
-  &nbsp;&nbsp; /\* ... \*/  <br>
-  &nbsp;&nbsp; /\* ... \*/  <br>
-  &nbsp;&nbsp; /\* ... \*/  <br>
-  &nbsp;&nbsp; /\* ... \*/  <br> 
+  &nbsp;&nbsp; /\* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  \*/  <br>
  &nbsp;&nbsp;return 0; <br>
 } <br>
  - vocabulaire (instructions) essentiel(les)
