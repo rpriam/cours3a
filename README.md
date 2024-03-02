@@ -13,5 +13,5 @@ Complement (bibliographique et autre)<br>
  - ide codeblocks [.org](https://www.codeblocks.org/)
 
 Complement (rappels)<br>
- - programme principal(define-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md) <br>
+ - programme principal (include-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md) <br>
  - Eléments de vocabulaire (instructions) essentiel(les) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/syntax.md)
