@@ -9,5 +9,4 @@ Travaux pratiques en langage C pdf (A VENIR) <br>
 Complement bibliographique<br>
  - mémos [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/refcard_c.pdf) 
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
-            [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
-            , polycop [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/cours_c.pdf) <br>
+            [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf) <br>
