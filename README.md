@@ -23,14 +23,14 @@ Complement (rappels)<br>
  &nbsp;&nbsp;return 0; <br>
 } <br>
  - vocabulaire (instructions) de base
-  -- include, main, return
-  -- int, float, char
-  -- printf, scanf
-  -- rand, srand
-  -- sqrt, pow
-  -- if, then
-  -- while, do-while
-  -- for, break
+    - include, main, return
+    - int, float, char
+    - printf, scanf
+    - rand, srand
+    - sqrt, pow
+    - if, then
+    - while, do-while
+    - for, break
 
 
  
