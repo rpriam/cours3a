@@ -16,9 +16,9 @@ Complement (rappels)<br>
  - programme principal <br>
  #include<fichier_librairie.h> <br>
  int main() { <br>
-  &nbsp;&nbsp;/* declaration des variables */ <br>
+  &nbsp;&nbsp;'/* declaration des variables */' <br>
  <br> <br>
-  &nbsp;&nbsp;/* contenu du programme principal */
+  &nbsp;&nbsp;'/* contenu du programme principal */'
  <br> <br>
  &nbsp;&nbsp;return 0; <br>
 } <br>
