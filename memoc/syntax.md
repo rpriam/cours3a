@@ -1,7 +1,8 @@
  - Eléments de vocabulaire (instructions) essentiel(les)
     - include, main, return
     - int, float, char
-    - syntaxe affiche,capture: printf, scanf, "%f", "%d", "%c"
+    - syntaxe affiche,capture: printf, scanf
+    - syntaxe affiche,capture: "%f", "%d", "%c", "%s"
     - structure de contrôle: if, then, else, (switch)
     - structure de boucle: while(){;}, do {;} while();
     - structure de boucle: for(;;){;}, (break)
