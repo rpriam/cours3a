@@ -18,7 +18,13 @@ Complement (rappels)<br>
  int main() { <br>
   &nbsp;&nbsp; /\* declaration des variables \*/ <br>
  <br> <br>
-  &nbsp;&nbsp; /\* contenu du programme principal \*/
+  &nbsp;&nbsp; /\* ... \*/
+ &nbsp;&nbsp; /\* ... \*/
+  &nbsp;&nbsp; /\* code du programme principal \*/
+  &nbsp;&nbsp; /\* ... \*/
+  &nbsp;&nbsp; /\* ... \*/
+  &nbsp;&nbsp; /\* ... \*/
+  &nbsp;&nbsp; /\* ... \*/
  <br> <br>
  &nbsp;&nbsp;return 0; <br>
 } <br>
