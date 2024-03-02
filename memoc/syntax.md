@@ -1,0 +1,19 @@
+ - Eléments de vocabulaire (instructions) essentiel(les)
+    - include, main, return
+    - int, float, char
+    - syntaxe affiche, capture: printf, scanf, "%f", "%d", "%c"
+    - structure de contrôle: if, then, else, (switch)
+    - structure de boucle: while(){;}, do {;} while();
+    - structure de boucle: for(;;){;}, (break)
+    - opérateur comparaison: ==, !=, >, <, <=,>=
+    - opérateur logique: &&, ||, !
+    - opérateur mathematique: +, -, /, *
+    - opérateur affectation: =, +=, -=, /=, *=
+    - opérateur incrementation ++
+    - opérateur décrementation --
+    - opérateur pointeurs/tableau: *, &, []
+    - fonction calcul dates/heures: time
+    - fonction de nombre aléatoire: rand, srand
+    - fonction calcul mathématique: sqrt, pow
+    - fonction chaine de caractères:  strcmp
+    
