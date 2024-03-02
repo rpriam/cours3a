@@ -13,32 +13,5 @@ Complement (bibliographique et autre)<br>
  - ide codeblocks [.](https://www.codeblocks.org/)
 
 Complement (rappels)<br>
- - programme principal <br>
- #include<fichier_librairie.h> <br>
- int main() { <br>
-  &nbsp;&nbsp; /\* declaration des variables \*/ <br>
-    <br>
-  &nbsp;&nbsp; /\* code du programme principal \*/  <br>
-    <br>
- &nbsp;&nbsp;return 0; <br>
-} <br>
- - Eléments de vocabulaire (instructions) essentiel(les)
-    - include, main, return
-    - int, float, char
-    - syntaxe affiche, capture: printf, scanf, "%f", "%d", "%c"
-    - structure de contrôle: if, then, else, (switch)
-    - structure de boucle: while(){;}, do {;} while();
-    - structure de boucle: for(;;){;}, (break)
-    - opérateur comparaison: ==, !=, >, <, <=,>=
-    - opérateur logique: &&, ||, !
-    - opérateur mathematique: +, -, /, *
-    - opérateur affectation: =, +=, -=, /=, *=
-    - opérateur incrementation ++
-    - opérateur décrementation --
-    - opérateur pointeurs/tableau: *, &, []
-    - fonction calcul dates/heures: time
-    - fonction de nombre aléatoire: rand, srand
-    - fonction calcul mathématique: sqrt, pow
-    - fonction chaine de caractères:  strcmp
-
-   
+ - programme principal(define-main-variables-...-return) [.](https://github.com/rpriam/cours3a/blob/main/memoc/main.md) <br>
+ - Eléments de vocabulaire (instructions) essentiel(les) [.](https://github.com/rpriam/cours3a/blob/main/memoc/syntax.md)
