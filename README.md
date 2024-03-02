@@ -20,9 +20,17 @@ Complement (rappels)<br>
  <br> <br>
   &nbsp;&nbsp;/*contenu du programme principal */
  <br> <br>
- &nbsp;&nbsp;return 0;
+ &nbsp;&nbsp;return 0; <br>
 } <br>
- 
+ - vocabulaire (instructions) de base
+  - include, main, return
+  - int, float, char
+  - printf, scanf
+  - rand, srand
+  - sqrt, pow
+  - if, then
+  - while, do-while
+  - for, break
 
 
  
