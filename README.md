@@ -22,7 +22,7 @@ Complement (rappels)<br>
  <br> <br>
  &nbsp;&nbsp;return 0; <br>
 } <br>
- - vocabulaire (instructions) de base
+ - vocabulaire (instructions) essentiel(les)
     - include, main, return
     - int, float, char
     - printf, scanf
