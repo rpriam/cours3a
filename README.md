@@ -28,7 +28,7 @@ Complement (rappels)<br>
     - printf, scanf
     - rand, srand
     - sqrt, pow
-    - if, then
+    - if, then, else
     - while, do-while
     - for, break
 
