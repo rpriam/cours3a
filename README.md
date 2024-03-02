@@ -18,8 +18,8 @@ Complement (rappels)<br>
  int main() { <br>
   &nbsp;&nbsp; /\* declaration des variables \*/ <br>
   &nbsp;&nbsp; /\* .   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  . \*/  <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  . \*/  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  .  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*/  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  .  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \*/  <br>
   &nbsp;&nbsp; /\* code du programme principal \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
   &nbsp;&nbsp; /\* ... \*/  <br>
