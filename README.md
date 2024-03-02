@@ -22,19 +22,23 @@ Complement (rappels)<br>
     <br>
  &nbsp;&nbsp;return 0; <br>
 } <br>
- - vocabulaire (instructions) essentiel(les)
+ - Eléments de vocabulaire (instructions) essentiel(les)
     - include, main, return
     - int, float, char
-    - printf, scanf
-    - rand, srand
-    - sqrt, pow
-    - if, then, else
-    - while, do-while
-    - for, break
-    - [], *
-
-
- 
-
+    - syntaxe affiche, capture:printf, scanf, "%f", "%d", "%c"
+    - structure de contrôle: if, then, else, (switch)
+    - structure de boucle: while(){;}, do {;} while();
+    - structure de boucle: for(;;){;}, (break)
+    - opérateur comparaison: ==, !=, >, <, <=,>=
+    - opérateur logique: &&, ||, !
+    - opérateur mathematique: +, -, /, *
+    - opérateur affectation: =, +=, -=, /=, *=
+    - opérateur incrementation ++
+    - opérateur décrementation --
+    - opérateur pointeurs/tableau: *, &, []
+    - fonction calcul dates/heures: time
+    - fonction de nombre aléatoire: rand, srand
+    - fonction calcul mathématique: sqrt, pow
+    - fonction chaine de caractères:  strcmp
 
    
