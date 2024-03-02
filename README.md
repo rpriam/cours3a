@@ -10,5 +10,5 @@ Complement (bibliographique et autre)<br>
  - mémos [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/refcard_c.pdf) 
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
- - codeblocks [.](https://www.codeblocks.org/)
+ - ide codeblocks [.](https://www.codeblocks.org/)
    <br>
