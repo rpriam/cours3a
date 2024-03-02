@@ -7,7 +7,7 @@ Travaux pratiques en langage C pdf (A VENIR) <br>
 - sujet1.pdf sujet2.pdf sujet3.pdf
 
 Complement bibliographique:<br>
- - [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/refcard_c.pdf) 
+ - mémos [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/refcard_c.pdf) 
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
- - [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/cours_c.pdf) <br>
+ - poly cours [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/cours_c.pdf) <br>
