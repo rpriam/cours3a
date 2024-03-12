@@ -19,5 +19,6 @@ Travaux dirigés en langage C pdf (EN COURS) <br>
 Travaux pratiques en langage C pdf (A VENIR) <br>
 - voir site www du professeur du module <br>
 - sujet1.pdf sujet2.pdf sujet3.pdf
-
-
+ 
+Travaux pratiques en langage Python pdf (A VENIR) <br>
+- sujet1.pdf sujet2.pdf sujet3.pdf sujet4.pdf
