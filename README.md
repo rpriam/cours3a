@@ -27,7 +27,7 @@ Travaux pratiques en langage C pdf (A VENIR) <br>
     - sujet3.pdf
  
 Travaux pratiques en langage Python pdf (A VENIR) <br>
-- Sujets
+- sujets
     - 1.pdf 
     - 2.pdf
     - 3.pdf
