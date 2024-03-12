@@ -10,12 +10,11 @@ Travaux dirigés en langage C pdf (EN COURS) <br>
 - Compléments <br>
     - Polycopié (typedef, #define) : [1.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie_c.pdf)
                                  [2.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie2_c.pdf)
-                                 [3.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie3_c.pdf)
-
-   - mémos [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/refcard_c.pdf) 
+                                 [3.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie3_c.pdf) 
+   & mémos [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/refcard_c.pdf) 
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
-   - ide: codeblocks [.org](https://www.codeblocks.org/), VSC [.com](https://visualstudio.microsoft.com/fr/vs/community/)
+   - ide: codeblocks [.org](https://www.codeblocks.org/), Visual Studio Community [.com](https://visualstudio.microsoft.com/fr/vs/community/)
           
    - Rappels: programme principal (include-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md)
    - Rappels: Eléments de vocabulaire (instructions) essentiel(les) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/syntax.md)
