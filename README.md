@@ -16,7 +16,7 @@ Travaux dirigés en langage C pdf (EN COURS) <br>
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
    - ide: codeblocks [.org](https://www.codeblocks.org/),
-          PyCharm [/com](https://www.jetbrains.com/fr-fr/pycharm/)
+          PyCharm [.com](https://www.jetbrains.com/fr-fr/pycharm/),
           Visual Studio Community [.com](https://visualstudio.microsoft.com/fr/vs/community/)
           
    - Rappels: programme principal (include-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md)
