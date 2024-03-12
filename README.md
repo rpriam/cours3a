@@ -12,9 +12,8 @@ Travaux dirigés en langage C pdf (EN COURS) <br>
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
    - ide codeblocks [.org](https://www.codeblocks.org/)
-
-  - Rappels: programme principal (include-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md) <br>
-  - Rappels: Eléments de vocabulaire (instructions) essentiel(les) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/syntax.md)
+   - Rappels: programme principal (include-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md)
+   - Rappels: Eléments de vocabulaire (instructions) essentiel(les) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/syntax.md)
    
 Travaux pratiques en langage C pdf (A VENIR) <br>
 - voir site www du professeur du module <br>
