@@ -1,5 +1,5 @@
 Travaux dirigés en langage C pdf (EN COURS) <br>
-- voir site www du professeur du module <br>
+- voir site www de l'enseignant du module <br>
     - sujet1&2.pdf 
     - sujet2&3.pdf 
     - sujet3&4.pdf 
