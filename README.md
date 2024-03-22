@@ -15,23 +15,13 @@ Travaux dirigés en langage C pdf (EN COURS) <br>
             [(en)](https://github.com/rpriam/cours3a/blob/main/memoc/cheatsheet_c.pdf) 
             [(fr)](https://github.com/rpriam/cours3a/blob/main/memoc/aidememoire_c.pdf)
    - ide: codeblocks [.org](https://www.codeblocks.org/), Visual Studio Community [.com](https://visualstudio.microsoft.com/fr/vs/community/)
-          
+  
    - Rappels: programme principal (include-main-variables-...-return) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/main.md)
    - Rappels: Eléments de vocabulaire (instructions) essentiel(les) [.md](https://github.com/rpriam/cours3a/blob/main/memoc/syntax.md)
    
-Travaux pratiques en langage C pdf (A VENIR) <br>
+Travaux pratiques en langage C pdf (EN COURS) <br>
 - voir site www du professeur du module <br>
     - sujet1.pdf
     - sujet2.pdf
     - sujet3.pdf
  
-Travaux pratiques en langage Python pdf (A VENIR) <br>
-- sujets
-    - 1.pdf 
-    - 2.pdf
-    - 3.pdf
-    - 4.pdf
-- ide: Jupyter Lab [.org](https://jupyter.org/),
-       PyCharm [.com](https://www.jetbrains.com/fr-fr/pycharm/),
-       VSC [.com](https://visualstudio.microsoft.com/fr/vs/community/),
-       et autres [.org](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
