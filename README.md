@@ -15,8 +15,7 @@ Travaux dirigés en langage C pdf (FINI) <br>
       ([solution 2et3.d.c](https://github.com/rpriam/cours3a/raw/main/TD3A_ElementsDeSolution.zip))
       ([solutions 3et4.1.c 3et4.2.c](https://github.com/rpriam/cours3a/raw/main/TD3A_ElementsDeSolution.zip)
 
-Compléments Langage C
-- Compléments <br>
+Compléments pour le Langage C
     - Polycopié (typedef, #define) : [1.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie_c.pdf)
                                  [2.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie2_c.pdf)
                                  [3.](https://github.com/rpriam/cours3a/blob/main/memoc/polycopie3_c.pdf) 
