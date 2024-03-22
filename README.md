@@ -4,6 +4,7 @@ Travaux pratiques en langage C pdf (EN COURS) <br>
     - sujet1.pdf
     - sujet2.pdf
     - sujet3.pdf
+    - sujet4.pdf
 
 Travaux dirigés en langage C pdf (FINI) <br>
 - voir site www de l'enseignant du module <br>
